@@ -1,0 +1,50 @@
+*{
+    margin:0px
+}
+.searchContainer {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png");
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+.mainHeading {
+    color: #ffffff;
+}
+
+.result-item {
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+}
+
+.result-title {
+    font-size: 22px;
+}
+
+.divcontainer {
+    display: flex;
+    flex-direction: column;
+    margin:10px;
+
+}
+
+
+.image {
+    height:150px;
+    width: 120px;
+    margin-bottom: 5px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.link-description {
+    font-size: 12.5px;
+    color: #444444;
+}
+
